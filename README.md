@@ -1,4 +1,3 @@
-### Hi there 👋
+### 신입 웹 개발자 임동빈 👋
 
 
-<img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Dongbin%Lim&fontSize=90" />
